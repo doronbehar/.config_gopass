@@ -1,0 +1,18 @@
+root:
+  askformore: false
+  autoclip: true
+  autoimport: true
+  autosync: false
+  check_recipient_hash: false
+  cliptimeout: 45
+  concurrency: 1
+  editrecipients: false
+  nocolor: false
+  noconfirm: false
+  nopager: true
+  notifications: true
+  path: gpgcli-gitcli-fs+file:///home/doron/.password-store
+  recipient_hash: {}
+  safecontent: true
+  usesymbols: false
+mounts: {}
