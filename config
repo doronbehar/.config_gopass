@@ -9,3 +9,5 @@ notifications: true
 path: /home/doron/.password-store
 safecontent: false
 mounts: {}
+[mounts]
+	path = /home/doron/.password-store
