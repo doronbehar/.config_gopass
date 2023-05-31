@@ -1,13 +1,8 @@
-autoclip: true
-autoimport: true
-cliptimeout: 45
-exportkeys: true
-mime: false
-nocolor: false
-nopager: false
-notifications: true
-path: /home/doron/.password-store
-safecontent: false
-mounts: {}
 [mounts]
 	path = /home/doron/.password-store
+[core]
+	autoclip: true
+	# currently vps is broken...
+	autopush = false
+	autosync = false
+	autoimport: false
