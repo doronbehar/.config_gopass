@@ -2,7 +2,6 @@
 	path = /home/doron/.password-store
 [core]
 	autoclip: true
-	# currently vps is broken...
-	autopush = false
-	autosync = false
-	autoimport: false
+	autopush = true
+	autosync = true
+	autoimport: true
